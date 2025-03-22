@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Ritik Maurya</h1>
+<h1 align="left">Hi 👋, I'm Paramjeet Yadav</h1>
 <h3 align="left">I am a Versatilist and Full Stack Developer 🌐 and I love to code and build user-friendly websites & I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠.</h3>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif" width="360px"/>
@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning NextJS
 
-- 👨‍💻 All of my projects are available at https://github.com/ritikmaurya4747 & https://github.com/ritikmaurya4747
+- 👨‍💻 All of my projects are available at https://github.com/paramjeet1996
 
-- 📫 How to reach me https://www.linkedin.com/in/ritik-maurya-1a92aa299/
+- 📫 How to reach me https://www.linkedin.com/in/yadav-paramjeet-g-16b47220a
 
-- 📄 Know about my experiences https://drive.google.com/file/d/19jEcP8bdtuwUQpmMp-0E_3SuRAaxI5Oy/view?usp=drive_link
+- 📄 Know about my experiences https://drive.google.com/
 
 
 ## 🌐 Socials:
-https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://www.linkedin.com/in/ritik-maurya-1a92aa299/)
+https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://www.linkedin.com/in/yadav-paramjeet-g-16b47220a/)
 https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white](https://x.com/) 
 
 # 💻 Tech Stack:
